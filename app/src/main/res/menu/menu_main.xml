@@ -5,6 +5,7 @@
         android:enabled="true"
         android:title="create"
         android:id="@+id/action_menu_new_note"
+        android:icon="@drawable/ic_add_circle_outline_black_18dp"
         android:orderInCategory="0"
         app:showAsAction="always"/>
 
